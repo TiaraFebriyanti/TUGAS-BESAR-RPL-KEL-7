@@ -3,11 +3,11 @@ JURNAL MOD 4
 
 Anggota Kelompok:
 
-[Rizky Haffiyan Roseno](https://github.com/RihanoDev)
+[Rizky Haffiyan Roseno](https://github.com/RihanoDev) (1301194042)
 
-[Azrina Fazira]
+[Azrina Fazira]()
 
-[Livia Naura Aqilla]
+[Livia Naura Aqilla]()
 
-[Habib Al-Farabi]
+[Habib Al-Farabi]()
 
