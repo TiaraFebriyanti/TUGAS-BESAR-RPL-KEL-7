@@ -3,7 +3,7 @@ JURNAL MOD 4
 
 Anggota Kelompok:
 
-[Rizky Haffiyan Roseno]
+[Rizky Haffiyan Roseno](https://github.com/RihanoDev)
 
 [Azrina Fazira]
 
