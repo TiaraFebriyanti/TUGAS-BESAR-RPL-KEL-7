@@ -3,11 +3,11 @@ JURNAL MOD 4
 
 Anggota Kelompok:
 
-Rizky Haffiyan Roseno
+[Rizky Haffiyan Roseno]
 
-Azrina Fazira
+[Azrina Fazira]
 
-Livia Naura Aqilla
+[Livia Naura Aqilla]
 
-Habib Al-Farabi
+[Habib Al-Farabi]
 
