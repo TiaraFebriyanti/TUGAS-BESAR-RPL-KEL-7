@@ -6,5 +6,5 @@ Anggota Kelompok:
 - [Azrina Fazira]() (1301194241)
 - [Livia Naura Aqilla]() (1301194089)
 - [Habib Al-Farabi]() (1301194170)
-- [Tiara Febriyanti]() (1301194309)
+- [Tiara Febriyanti](https://github.com/TiaraFebriyanti) (1301194309)
 
